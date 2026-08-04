@@ -68,5 +68,5 @@ put down whenever life calls.
 <p align="center">
   <a href="https://veryfunstudio.github.io/"><strong>veryfunstudio.github.io</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://x.com/chuangcius">X</a>
+  <a href="https://x.com/veryfunstudio">X</a>
 </p>
