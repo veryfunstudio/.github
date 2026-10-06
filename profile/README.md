@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://veryfunstudio.github.io/">
-    <img src="https://veryfunstudio.github.io/og-modern-workshop.png?v=20260804-v2" width="640" alt="VeryFun Studio VF monogram">
+    <img src="https://veryfunstudio.github.io/og-studio-relaunch.png" width="640" alt="VeryFun Studio — Play Index">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
   &nbsp;·&nbsp;
   <a href="https://play.google.com/store/apps/developer?id=songxugang">Google Play</a>
   &nbsp;·&nbsp;
-  <a href="mailto:chuangcius@gmail.com">Contact</a>
+  <a href="mailto:veryfunstudios@gmail.com">Contact</a>
 </p>
 
 ---
