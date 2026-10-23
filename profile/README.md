@@ -13,11 +13,11 @@
 
 <p align="center">
   <a href="https://veryfunstudio.github.io/games"><strong>Explore our games</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://veryfunstudio.github.io/blog">Studio Notes</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/developer?id=songxugang">Google Play</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:veryfunstudios@gmail.com">Contact</a>
 </p>
 
@@ -67,6 +67,6 @@ put down whenever life calls.
 
 <p align="center">
   <a href="https://veryfunstudio.github.io/"><strong>veryfunstudio.github.io</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/veryfunstudio">X</a>
 </p>
