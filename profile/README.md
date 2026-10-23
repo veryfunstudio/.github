@@ -1,72 +1,36 @@
-<p align="center">
-  <a href="https://veryfunstudio.github.io/">
-    <img src="https://veryfunstudio.github.io/og-studio-relaunch.png" width="640" alt="VeryFun Studio — Play Index">
-  </a>
-</p>
+<a href="https://veryfunstudio.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/playroom-dark.svg">
+    <img src="assets/playroom-light.svg" width="900" alt="Take a puzzle break. Match two in Nova Mahjong, match three in Tile Journey, or find a path in Arrow Out.">
+  </picture>
+</a>
 
-<h1 align="center">VeryFun Studio</h1>
+# VeryFun Studio
 
-<p align="center">
-  <strong>Quiet games. Bright logic.</strong><br>
-  Calm, tactile mobile puzzle games for spare attention.
-</p>
+Small Android puzzle games, with room to think.
 
-<p align="center">
-  <a href="https://veryfunstudio.github.io/games"><strong>Explore our games</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://veryfunstudio.github.io/blog">Studio Notes</a>
-  &nbsp;·&nbsp;
-  <a href="https://play.google.com/store/apps/developer?id=songxugang">Google Play</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:veryfunstudios@gmail.com">Contact</a>
-</p>
+**[Play a Mahjong board →](https://veryfunstudio.github.io/)**
 
----
+### Choose your puzzle
 
-### A gentler kind of focus
+[All games](https://veryfunstudio.github.io/games)
 
-We make approachable Android puzzles around clear rules, readable boards, and a calm pace.
-Our games are designed to be easy to pick up, satisfying to return to, and comfortable to
-put down whenever life calls.
+**[Nova Mahjong For Seniors](https://veryfunstudio.github.io/games/nova-mahjong)**<br>
+Match free pairs. Large tiles, no time limit, offline play.
 
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <a href="https://veryfunstudio.github.io/games/nova-mahjong">
-        <img src="https://veryfunstudio.github.io/images/nova-mahjong.webp" alt="Nova Mahjong For Seniors">
-      </a>
-      <h3 align="center">Nova Mahjong For Seniors</h3>
-      <p align="center">Large tiles. No clocks. Classic solitaire calm.</p>
-      <p align="center"><a href="https://veryfunstudio.github.io/games/nova-mahjong"><strong>Explore game&nbsp;→</strong></a></p>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://veryfunstudio.github.io/games/tile-journey">
-        <img src="https://veryfunstudio.github.io/images/tile-journey.webp" alt="Tile Journey">
-      </a>
-      <h3 align="center">Tile Journey</h3>
-      <p align="center">3D match-three. Offline. Thousands of levels.</p>
-      <p align="center"><a href="https://veryfunstudio.github.io/games/tile-journey"><strong>Explore game&nbsp;→</strong></a></p>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://veryfunstudio.github.io/games/arrow-out">
-        <img src="https://veryfunstudio.github.io/images/arrow-out.webp" alt="Arrow Out">
-      </a>
-      <h3 align="center">Arrow Out</h3>
-      <p align="center">One direction at a time. Handcrafted paths.</p>
-      <p align="center"><a href="https://veryfunstudio.github.io/games/arrow-out"><strong>Explore game&nbsp;→</strong></a></p>
-    </td>
-  </tr>
-</table>
+**[Tile Journey](https://veryfunstudio.github.io/games/tile-journey)**<br>
+Match three tiles and work through layered puzzles.
 
-### Built for people, not pressure
+**[Arrow Out](https://veryfunstudio.github.io/games/arrow-out)**<br>
+Trace the direction of each arrow and clear a path.
 
-- Clear rules before spectacle.
-- Comfortable targets and useful feedback.
-- Thoughtful repeat play without manufactured urgency.
-- Honest product pages, direct support, and a simple path to play.
+<details>
+<summary>From the studio</summary>
 
-<p align="center">
-  <a href="https://veryfunstudio.github.io/"><strong>veryfunstudio.github.io</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/veryfunstudio">X</a>
-</p>
+[Studio notes](https://veryfunstudio.github.io/blog) — the decisions behind our games.
+
+[About VeryFun Studio](https://veryfunstudio.github.io/about)
+
+</details>
+
+[Google Play](https://play.google.com/store/apps/developer?id=songxugang) &emsp; [Support](mailto:veryfunstudios@gmail.com) &emsp; [X](https://x.com/veryfunstudio)
