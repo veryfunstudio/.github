@@ -1,72 +1,75 @@
 <p align="center">
   <a href="https://veryfunstudio.github.io/">
-    <img src="https://veryfunstudio.github.io/og-studio-relaunch.png" width="640" alt="VeryFun Studio — Play Index">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/v2/quiet-hero-mobile.webp">
+      <img src="assets/v2/quiet-hero.webp" width="100%" alt="VeryFun Studio — Quiet games. Bright logic. Calm, tactile puzzle games for the in-between moments.">
+    </picture>
   </a>
 </p>
 
-<h1 align="center">VeryFun Studio</h1>
-
 <p align="center">
-  <strong>Quiet games. Bright logic.</strong><br>
-  Calm, tactile mobile puzzle games for spare attention.
-</p>
-
-<p align="center">
-  <a href="https://veryfunstudio.github.io/games"><strong>Explore our games</strong></a>
+  <a href="https://veryfunstudio.github.io/games">Explore our games</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://veryfunstudio.github.io/blog">Studio Notes</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/developer?id=songxugang">Google Play</a>
+  <a href="https://play.google.com/store/apps/developer?id=Veryfun+Studio">Google Play</a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:veryfunstudios@gmail.com">Contact</a>
 </p>
 
----
-
-### A gentler kind of focus
-
-We make approachable Android puzzles around clear rules, readable boards, and a calm pace.
-Our games are designed to be easy to pick up, satisfying to return to, and comfortable to
-put down whenever life calls.
-
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <a href="https://veryfunstudio.github.io/games/nova-mahjong">
-        <img src="https://veryfunstudio.github.io/images/nova-mahjong.webp" alt="Nova Mahjong For Seniors">
-      </a>
-      <h3 align="center">Nova Mahjong For Seniors</h3>
-      <p align="center">Large tiles. No clocks. Classic solitaire calm.</p>
-      <p align="center"><a href="https://veryfunstudio.github.io/games/nova-mahjong"><strong>Explore game&nbsp;→</strong></a></p>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://veryfunstudio.github.io/games/tile-journey">
-        <img src="https://veryfunstudio.github.io/images/tile-journey.webp" alt="Tile Journey">
-      </a>
-      <h3 align="center">Tile Journey</h3>
-      <p align="center">3D match-three. Offline. Thousands of levels.</p>
-      <p align="center"><a href="https://veryfunstudio.github.io/games/tile-journey"><strong>Explore game&nbsp;→</strong></a></p>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://veryfunstudio.github.io/games/arrow-out">
-        <img src="https://veryfunstudio.github.io/images/arrow-out.webp" alt="Arrow Out">
-      </a>
-      <h3 align="center">Arrow Out</h3>
-      <p align="center">One direction at a time. Handcrafted paths.</p>
-      <p align="center"><a href="https://veryfunstudio.github.io/games/arrow-out"><strong>Explore game&nbsp;→</strong></a></p>
-    </td>
-  </tr>
-</table>
-
-### Built for people, not pressure
-
-- Clear rules before spectacle.
-- Comfortable targets and useful feedback.
-- Thoughtful repeat play without manufactured urgency.
-- Honest product pages, direct support, and a simple path to play.
+<h2>Nova Mahjong For Seniors</h2>
 
 <p align="center">
-  <a href="https://veryfunstudio.github.io/"><strong>veryfunstudio.github.io</strong></a>
+  <a href="https://veryfunstudio.github.io/games/nova-mahjong">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/v2/quiet-nova-mobile.webp">
+      <img src="assets/v2/quiet-nova.webp" width="100%" alt="A little room to think. Ivory mahjong tiles on a calm green-felt table.">
+    </picture>
+  </a>
+</p>
+
+Large, clear tiles. Hundreds of handcrafted puzzles. No time limits. Fully playable offline.<br>
+**[Play on Android](https://play.google.com/store/apps/details?id=com.veryfuncompany.mahjongjourney)** · [Discover Nova](https://veryfunstudio.github.io/games/nova-mahjong)
+
+<h2>Tile Journey</h2>
+
+<p align="center">
+  <a href="https://veryfunstudio.github.io/games/tile-journey">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/v2/quiet-tile-mobile.webp">
+      <img src="assets/v2/quiet-tile.webp" width="100%" alt="Small discoveries. Layered flower and fruit tiles on a bright green table.">
+    </picture>
+  </a>
+</p>
+
+Match three, plan ahead, and wander through thousands of handcrafted levels. Play offline, wherever you are.<br>
+**[Play on Android](https://play.google.com/store/apps/details?id=com.veryfun.tilejourney)** · [Begin the journey](https://veryfunstudio.github.io/games/tile-journey)
+
+<h2>Arrow Out</h2>
+
+<p align="center">
+  <a href="https://veryfunstudio.github.io/games/arrow-out">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/v2/quiet-arrow-mobile.webp">
+      <img src="assets/v2/quiet-arrow.webp" width="100%" alt="One move. Then another. Untangle a sailboat of handcrafted directional paths.">
+    </picture>
+  </a>
+</p>
+
+Untangle handcrafted paths, one clear direction at a time.<br>
+**[Play on Android](https://play.google.com/store/apps/details?id=com.veryfuncompany.kittyescape)** · [Find your way](https://veryfunstudio.github.io/games/arrow-out)
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/v2/quiet-outro-mobile.webp">
+    <img src="assets/v2/quiet-outro.webp" width="100%" alt="Built for people, not pressure. Clear rules before spectacle. Useful feedback. Thoughtful repeat play without manufactured urgency.">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://veryfunstudio.github.io/">veryfunstudio.github.io</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/veryfunstudio">X</a>
+  <a href="https://x.com/veryfunstudio">@veryfunstudio</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:veryfunstudios@gmail.com">Contact</a>
 </p>
