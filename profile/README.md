@@ -1,75 +1,82 @@
-<p align="center">
-  <a href="https://veryfunstudio.github.io/">
-    <picture>
-      <source media="(max-width: 600px)" srcset="assets/v2/quiet-hero-mobile.webp">
-      <img src="assets/v2/quiet-hero.webp" width="100%" alt="VeryFun Studio — Quiet games. Bright logic. Calm, tactile puzzle games for the in-between moments.">
-    </picture>
-  </a>
-</p>
+**English** · [简体中文](README.zh-CN.md)
 
-<p align="center">
-  <a href="https://veryfunstudio.github.io/games">Explore our games</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://veryfunstudio.github.io/blog">Studio Notes</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/developer?id=Veryfun+Studio">Google Play</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:veryfunstudios@gmail.com">Contact</a>
-</p>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/veryfun-20261029/studio-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="../assets/veryfun-20261029/studio-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/veryfun-20261029/studio-dark-desktop.svg">
+  <img src="../assets/veryfun-20261029/studio-light-desktop.svg" width="100%" alt="VeryFun Studio. A little room for play. Original decorative puzzle illustration, not a game screenshot.">
+</picture>
 
-<h2>Nova Mahjong For Seniors</h2>
+# VeryFun Studio
 
-<p align="center">
-  <a href="https://veryfunstudio.github.io/games/nova-mahjong">
-    <picture>
-      <source media="(max-width: 600px)" srcset="assets/v2/quiet-nova-mobile.webp">
-      <img src="assets/v2/quiet-nova.webp" width="100%" alt="A little room to think. Ivory mahjong tiles on a calm green-felt table.">
-    </picture>
-  </a>
-</p>
+We’re an independent puzzle studio making calm, tactile mobile games for the little pauses in your day.
 
-Large, clear tiles. Hundreds of handcrafted puzzles. No time limits. Fully playable offline.<br>
-**[Play on Android](https://play.google.com/store/apps/details?id=com.veryfuncompany.mahjongjourney)** · [Discover Nova](https://veryfunstudio.github.io/games/nova-mahjong)
+[Visit the studio](https://veryfunstudio.github.io/) · [About us](https://veryfunstudio.github.io/about/) · [Get in touch](https://veryfunstudio.github.io/contact/)
 
-<h2>Tile Journey</h2>
+## Three puzzles, three ways to unwind
 
-<p align="center">
-  <a href="https://veryfunstudio.github.io/games/tile-journey">
-    <picture>
-      <source media="(max-width: 600px)" srcset="assets/v2/quiet-tile-mobile.webp">
-      <img src="assets/v2/quiet-tile.webp" width="100%" alt="Small discoveries. Layered flower and fruit tiles on a bright green table.">
-    </picture>
-  </a>
-</p>
+A selection from our [Android game catalog](https://veryfunstudio.github.io/about/).
 
-Match three, plan ahead, and wander through thousands of handcrafted levels. Play offline, wherever you are.<br>
-**[Play on Android](https://play.google.com/store/apps/details?id=com.veryfun.tilejourney)** · [Begin the journey](https://veryfunstudio.github.io/games/tile-journey)
+[Nova Mahjong](#nova-mahjong-for-seniors) · [Tile Journey](#tile-journey) · [Arrow Out](#arrow-out)
 
-<h2>Arrow Out</h2>
+### Nova Mahjong For Seniors
 
-<p align="center">
-  <a href="https://veryfunstudio.github.io/games/arrow-out">
-    <picture>
-      <source media="(max-width: 600px)" srcset="assets/v2/quiet-arrow-mobile.webp">
-      <img src="assets/v2/quiet-arrow.webp" width="100%" alt="One move. Then another. Untangle a sailboat of handcrafted directional paths.">
-    </picture>
-  </a>
-</p>
+**Mahjong, without the hurry.**
 
-Untangle handcrafted paths, one clear direction at a time.<br>
-**[Play on Android](https://play.google.com/store/apps/details?id=com.veryfuncompany.kittyescape)** · [Find your way](https://veryfunstudio.github.io/games/arrow-out)
+Match large, clear tiles on a green-felt board, with no timer rushing the next move.
 
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/v2/quiet-outro-mobile.webp">
-    <img src="assets/v2/quiet-outro.webp" width="100%" alt="Built for people, not pressure. Clear rules before spectacle. Useful feedback. Thoughtful repeat play without manufactured urgency.">
-  </picture>
-</p>
+[Explore the game](https://veryfunstudio.github.io/games/nova-mahjong/) · [Get it on Google Play](https://play.google.com/store/apps/details?id=com.veryfuncompany.mahjongjourney)
 
-<p align="center">
-  <a href="https://veryfunstudio.github.io/">veryfunstudio.github.io</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/veryfunstudio">@veryfunstudio</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:veryfunstudios@gmail.com">Contact</a>
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="../assets/veryfun-20261029/nova-gameplay.jpg">
+  <img src="../assets/veryfun-20261029/nova-feature.svg" width="100%" alt="Official Nova Mahjong preview: stacked mahjong tiles on a green board, with Large Tiles promotional text.">
+</picture>
+
+### Tile Journey
+
+**Three tiles. One satisfying match.**
+
+Find matching triples among layered 3D tiles, with colorful scenes to explore offline.
+
+[Explore the game](https://veryfunstudio.github.io/games/tile-journey/) · [Get it on Google Play](https://play.google.com/store/apps/details?id=com.veryfun.tilejourney)
+
+<picture>
+  <source media="(max-width: 600px)" srcset="../assets/veryfun-20261029/tile-gameplay.jpg">
+  <img src="../assets/veryfun-20261029/tile-feature.svg" width="100%" alt="Official Tile Journey preview: fruit and vegetable tiles with a collection tray in a sunlit landscape.">
+</picture>
+
+### Arrow Out
+
+**A small move opens a new path.**
+
+Read the direction, find an unobstructed route, and work toward a clear board.
+
+[Explore the game](https://veryfunstudio.github.io/games/arrow-out/) · [Get it on Google Play](https://play.google.com/store/apps/details?id=com.veryfuncompany.kittyescape)
+
+<picture>
+  <source media="(max-width: 600px)" srcset="../assets/veryfun-20261029/arrow-gameplay.jpg">
+  <img src="../assets/veryfun-20261029/arrow-feature.svg" width="100%" alt="Official Arrow Out preview: colored directional arrows arranged into a sailboat on a dark board.">
+</picture>
+
+<details>
+<summary>What are you in the mood for?</summary>
+
+- **A slow match**: Nova Mahjong, with large tiles and no timer.
+- **A matching trio**: Tile Journey, with familiar shapes in layered boards.
+- **A clear path**: Arrow Out, where looking first makes the next move count.
+
+</details>
+
+<details>
+<summary>About the previews and platforms</summary>
+
+These are three featured games, not the studio’s entire catalog. The previews come from the official product pages and preserve the original images. Some include promotional text; they are not new device captures made for this page. The opening puzzle illustration is decorative studio artwork, not a playable game.
+
+The featured games are for Android. See each Google Play listing for download, advertising, in-app purchase, and data information. The public repositories host the website and GitHub profile, not the featured games’ source code.
+
+</details>
+
+## A little more about us
+
+[Website source](https://github.com/veryfunstudio/veryfunstudio.github.io) · [Studio & more games](https://veryfunstudio.github.io/about/) · [Contact & support](https://veryfunstudio.github.io/contact/)
+
