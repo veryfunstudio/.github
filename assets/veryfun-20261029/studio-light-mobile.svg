@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="700" viewBox="0 0 720 700" role="img" aria-labelledby="title desc"><title id="title">VeryFun Studio — a little room for play</title><desc id="desc">Original studio illustration: a tactile collection of rounded puzzle shapes. Decorative artwork, not a game screenshot.</desc><style>@keyframes settle{from{transform:translateY(-9px);opacity:.5}to{transform:translateY(0);opacity:1}}.settle{animation:settle 1.8s ease-out 1 both}@media(prefers-reduced-motion:reduce){.settle{animation:none}}</style><rect width="720" height="700" rx="28" fill="#F5F1E8"/>
+ <text x="40" y="56" font-family="Arial,sans-serif" font-size="20" letter-spacing="3" fill="#292532">VERYFUN STUDIO</text><text x="40" y="124" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-2" fill="#292532">A little room</text><text x="40" y="180" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-2" fill="#292532">for play.</text><path d="M40 212H680" stroke="#D8D0C7"/><g transform="translate(115 242) scale(.84)"><rect x="0" y="15" width="590" height="460" rx="76" fill="#E7DFD4"/><rect x="0" y="0" width="590" height="460" rx="76" fill="#D8D0C7"/><rect x="8" y="0" width="574" height="445" rx="70" fill="#E7DFD4"/>
+ <g class="settle">
+ <rect x="34" y="32" width="232" height="180" rx="45" fill="#55496D"/>
+ <path d="M81 84H165a35 35 0 0 1 0 70h-35" fill="none" stroke="#E5DDFC" stroke-width="26" stroke-linecap="round"/>
+ <circle cx="80" cy="154" r="13" fill="#B6D973"/>
+ <rect x="286" y="32" width="272" height="180" rx="45" fill="#C3D88B"/>
+ <path d="M329 138L390 77L451 138L512 77" fill="none" stroke="#4A5A2E" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+ <rect x="34" y="232" width="172" height="180" rx="45" fill="#E3AF9D"/>
+ <circle cx="120" cy="322" r="48" fill="none" stroke="#7D4948" stroke-width="24"/><circle cx="120" cy="322" r="12" fill="#FBF0DF"/>
+ <rect x="226" y="232" width="332" height="180" rx="45" fill="#D8C6E8"/>
+ <path d="M275 322h60v-40h75v80h75" fill="none" stroke="#665374" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/><circle cx="485" cy="322" r="10" fill="#665374"/>
+ </g></g><text x="40" y="674" font-family="Arial,sans-serif" font-size="18" fill="#665E69">Calm, tactile mobile puzzle games.</text></svg>
