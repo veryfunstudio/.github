@@ -1,6 +1,19 @@
-# The Quiet Table assets
+# Organization profile and retained study assets
 
-`profile/README.md` is the published organization profile. `preview-v2.html` is its complete visual study, including navigation and links supplied as text in the README.
+`profile/README.md` and `profile/README.zh-CN.md` publish the current bilingual
+organization profile. Their images are in `assets/veryfun-20261029/`:
+
+- `studio-{light,dark}-{desktop,mobile}.svg`: decorative studio masthead, explicitly labelled as illustration rather than gameplay.
+- `{nova,tile,arrow}-feature.svg`: desktop product preview compositions retained from the published profile update.
+- `{nova,tile,arrow}-gameplay.jpg`: corresponding mobile product previews.
+
+The profile text describes their source and limitations; these are not new device
+captures made during this cleanup. The source bytes and presentation are retained.
+`assets-manifest.json` records their hashes and checks that both language editions
+reference the same art and destinations.
+
+`preview-v2.html` is the earlier Quiet Table study. Its sources and exporter below
+remain available for reproduction, independently of the current profile.
 
 ## Source material
 
@@ -13,9 +26,9 @@ Game imagery comes from the existing VeryFun Studio website repository and its p
 - `concept-v2-assets/bricolage.ttf` and `bricolage-OFL.txt`: Bricolage Grotesque from `google/fonts/ofl/bricolagegrotesque`.
 - `preview-assets/dm-mono-400.woff2` and its license record: DM Mono from the website's existing self-hosted font collection.
 
-## Publication artwork
+## Retained Quiet Table exports
 
-`tools/export_v2.mjs` renders each scene as an independent GitHub-compatible image using the zero-dependency CDP helper from `033_zcode-inspector`. Run it with Node 24.22.1. It starts its own local servers, verifies image decoding, and uses unique page URLs to avoid navigation-cache mixing.
+`tools/export_v2.mjs` renders each scene as an independent GitHub-compatible image using this repository's pinned Playwright. Run it with Node 24.22.1 after `npm ci` and `npx playwright install chromium`. It owns an ephemeral loopback server, waits for local fonts and image decoding, and uses a fresh browser page per scene. No sibling repo or machine-specific helper is required.
 
 - `profile/assets/v2/quiet-{hero,nova,tile,arrow,outro}{,-mobile}.webp`: composed scene images.
 - Mobile artwork is laid out at 390 CSS pixels and exported at 2x resolution rather than cropped from the desktop scene.
