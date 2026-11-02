@@ -3,8 +3,15 @@ on:
   push:
     branches: [main]
   pull_request:
+  workflow_dispatch:
 permissions:
   contents: read
+
+# main 上的每个提交都必须完整跑完，因此只在非 main 分支取消进行中的运行。
+concurrency:
+  group: org-profile-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
 jobs:
   assets:
     runs-on: ubuntu-latest
@@ -13,7 +20,9 @@ jobs:
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version-file: .nvmrc
+      # 该 job 不跑 npm ci（check 脚本无第三方依赖），因此不加 npm 缓存。
       - run: npm run check
+
   export:
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -24,5 +33,12 @@ jobs:
           node-version-file: .nvmrc
           cache: npm
       - run: npm ci
+      # 缓存浏览器本体，避免网络抖动时重下。
+      - name: Cache Playwright browsers
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: pw-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          restore-keys: pw-${{ runner.os }}-
       - run: npx playwright install --with-deps chromium
       - run: npm run test:browser
