@@ -1,19 +1,18 @@
-# Organization profile and retained study assets
+# Organization profile and study assets
 
-`profile/README.md` and `profile/README.zh-CN.md` publish the current bilingual
+`profile/README.md` and `profile/README.zh-CN.md` publish the bilingual
 organization profile. Their images are in `assets/veryfun-20261029/`:
 
 - `studio-{light,dark}-{desktop,mobile}.svg`: decorative studio masthead, explicitly labelled as illustration rather than gameplay.
-- `{nova,tile,arrow}-feature.svg`: desktop product preview compositions retained from the published profile update.
+- `{nova,tile,arrow}-feature.svg`: desktop product preview compositions.
 - `{nova,tile,arrow}-gameplay.jpg`: corresponding mobile product previews.
 
-The profile text describes their source and limitations; these are not new device
-captures made during this cleanup. The source bytes and presentation are retained.
-`assets-manifest.json` records their hashes and checks that both language editions
-reference the same art and destinations.
+The profile text describes their source and limitations; these are compositions,
+not device captures. `assets-manifest.json` records their hashes and checks that
+both language editions reference the same art and destinations.
 
-`preview-v2.html` is the earlier Quiet Table study. Its sources and exporter below
-remain available for reproduction, independently of the current profile.
+`preview-v2.html` is the Quiet Table study. Its sources and exporter below remain
+available for reproduction, independently of the current profile.
 
 ## Source material
 

@@ -2,12 +2,12 @@
 
 `profile/README.md` is the published English organization landing page, with
 `profile/README.zh-CN.md` beside it. Its ten responsive light/dark and game-preview
-assets live in `assets/veryfun-20261029/`. These newer remote profile commits are
-preserved unchanged. Text links remain native, accessible GitHub links.
+assets live in `assets/veryfun-20261029/`. Text links remain native, accessible
+GitHub links.
 
-`preview-v2.html` and `profile/assets/v2/` retain the earlier Quiet Table visual
-study. Its exporter is independent from the current bilingual profile; running
-it does not replace the current profile artwork.
+`preview-v2.html` and `profile/assets/v2/` hold the Quiet Table visual study. Its
+exporter is independent from the bilingual profile; running it does not replace
+the current profile artwork.
 
 ## Verify and export
 
@@ -46,5 +46,4 @@ CI checks both profile languages and the committed inventory, then independently
 temporary storage. It never overwrites published artwork during tests. Source
 material and licences are described in [ASSETS.md](ASSETS.md).
 
-`SECURITY.md` supplies the organization's existing default reporting policy.
-This cleanup does not change organization settings or other repositories.
+`SECURITY.md` supplies the organization's default vulnerability reporting policy.
